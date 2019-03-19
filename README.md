@@ -1,2 +1,2 @@
 # NexAI
-Nexclipper's second version of AI Analysis
+Nexclipper's second version of AI Analysis 
